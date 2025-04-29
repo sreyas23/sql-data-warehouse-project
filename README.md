@@ -1,4 +1,4 @@
-# SQL Architecture Data Warehouse
+# SQL Data Warehouse
 
 A modern data warehouse built on SQL Server Express using the Bronze, Silver, and Gold layers to ingest, cleanse, model, and report on sales data.
 
